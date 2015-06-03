@@ -1,0 +1,1 @@
+A free Japanese AIML set under development.  For use with Pandorabots.com
